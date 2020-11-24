@@ -1,0 +1,6 @@
+{
+	"name": "k3os",
+
+	// Specifies a command that should be run after the container has been created.
+	"postCreateCommand": "echo hey",
+}
