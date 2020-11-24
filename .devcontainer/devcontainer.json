@@ -1,5 +1,10 @@
 {
 	"name": "k3os",
+		
+	"extensions": [	
+		"dbaeumer.vscode-eslint",
+		"ms-python.python"
+	],
 
 	// Specifies a command that should be run after the container has been created.
 	"postCreateCommand": "echo hey",
